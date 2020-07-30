@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kohnakagawa&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kohnakagawa&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohnakagawa&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohnakagawa" />
 </a>
