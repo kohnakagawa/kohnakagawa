@@ -14,3 +14,11 @@
 |[CVE-2023-21612](https://helpx.adobe.com/security/products/acrobat/apsb23-01.html)|macOS|Adobe|Adobe Acrobat Reader|LPE|
 |[CVE-2023-24930](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24930)|macOS|Microsoft|OneDrive|LPE|
 |[CVE-2023-28596](https://explore.zoom.us/en/trust/security/security-bulletin/)|macOS|Zoom|Zoom for macOS Installers|LPE|
+
+## Talks
+
+|Conferences|Titles|
+|:--:|:--:|
+|[Black Hat EU 2020](https://www.blackhat.com/eu-20/briefings/schedule/#jack-in-the-cache-a-new-code-injection-technique-through-modifying-x-to-arm-translation-cache-21324)|Jack-in-the-Cache: A New Code injection Technique through Modifying X86-to-ARM Translation Cache|
+|[CODE BLUE 2021](https://codeblue.jp/2021/talks/?content=talks_4)|Appearances are deceiving: Novel offensive techniques in Windows 10/11 on ARM|
+|[Black Hat Asia 2023](https://www.blackhat.com/asia-23/briefings/schedule/index.html#dirty-bin-cache-a-new-code-injection-poisoning-binary-translation-cache-30907)|Dirty Bin Cache: A New Code Injection Poisoning Binary Translation Cache|
