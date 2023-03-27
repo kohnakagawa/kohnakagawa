@@ -12,8 +12,12 @@
 |[CVE-2022-42789](https://support.apple.com/ja-jp/HT213488)|macOS|Apple|macOS|TCC bypass|
 |[CVE-2023-21611](https://helpx.adobe.com/security/products/acrobat/apsb23-01.html)|macOS|Adobe|Adobe Acrobat Reader|LPE|
 |[CVE-2023-21612](https://helpx.adobe.com/security/products/acrobat/apsb23-01.html)|macOS|Adobe|Adobe Acrobat Reader|LPE|
+|[CVE-2023-23533](https://support.apple.com/en-us/HT213670)|macOS|Apple|macOS|SIP bypass|
 |[CVE-2023-24930](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24930)|macOS|Microsoft|OneDrive|LPE|
+|[CVE-2023-28261](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28261)|macOS|Microsoft|Microsoft Edge (Chromium-based)|LPE|
 |[CVE-2023-28596](https://explore.zoom.us/en/trust/security/security-bulletin/)|macOS|Zoom|Zoom for macOS Installers|LPE|
+
+
 
 ## Talks
 
