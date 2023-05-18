@@ -1,7 +1,5 @@
 [![kohnakagawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohnakagawa&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohnakagawa&hide=assembly)](https://github.com/anuraghazra/github-readme-stats)
-
 ## CVE List
 
 |CVEs|Platforms|Vendors|Products|Classifications|
@@ -18,6 +16,7 @@
 |[CVE-2023-26396](https://helpx.adobe.com/security/products/acrobat/apsb23-24.html)|macOS|Adobe|Adobe Acrobat Reader|LPE|
 |[CVE-2023-28261](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28261)|macOS|Microsoft|Microsoft Edge (Chromium-based)|LPE|
 |[CVE-2023-28596](https://explore.zoom.us/en/trust/security/security-bulletin/)|macOS|Zoom|Zoom for macOS Installers|LPE|
+|[CVE-2023-32357](https://support.apple.com/en-us/HT213758)|macOS|Apple|macOS|TCC bypass|
 
 ## Talks
 
