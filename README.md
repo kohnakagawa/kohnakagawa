@@ -22,7 +22,7 @@
 ## CVE not assigned but acknowledged
 
 |Platform|Vendor|Product|Link|Memo|
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 |macOS|Apple|macOS (APFS)|[Apple Security Updates](https://support.apple.com/en-us/HT212804)|APFS timestamp flaw|
 |macOS|Apple|macOS (File Quarantine)|[Apple Security Updates](https://support.apple.com/en-us/HT213670)|Gatekeeper bypass|
 |macOS|Apple|macOS (quarantine)|[Apple Security Updates](https://support.apple.com/en-us/HT213670)|Gatekeeper bypass|
