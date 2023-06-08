@@ -17,7 +17,7 @@
 |[CVE-2023-27529](https://jvn.jp/en/jp/JVN90278893/)|macOS|Wacom|Wacom Tablet Driver installer|LPE|
 |[CVE-2023-28261](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28261)|macOS|Microsoft|Microsoft Edge (Chromium-based)|LPE|
 |[CVE-2023-28596](https://explore.zoom.us/en/trust/security/security-bulletin/)|macOS|Zoom|Zoom for macOS Installers|LPE|
-|[CVE-2023-32357](https://support.apple.com/en-us/HT213758)|macOS|Apple|macOS (Sandbox)|TCC bypass|
+|[CVE-2023-32357](https://support.apple.com/en-us/HT213758)|macOS|Apple|macOS (Sandbox)|TCC bypass (App Protection)|
 
 ## CVE not assigned but acknowledged
 
