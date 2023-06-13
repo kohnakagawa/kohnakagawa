@@ -16,6 +16,7 @@
 |[CVE-2023-28261](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28261)|macOS|Microsoft|Microsoft Edge (Chromium-based)|LPE|
 |[CVE-2023-28596](https://explore.zoom.us/en/trust/security/security-bulletin/)|macOS|Zoom|Zoom for macOS Installers|LPE|
 |[CVE-2023-32357](https://support.apple.com/en-us/HT213758)|macOS|Apple|macOS (Sandbox)|TCC bypass (App Protection)|
+|[CVE-2023-32546](https://jvn.jp/en/jp/JVN96828492/)|macOS|Chatwork|Chatwork Desktop Application|TCC bypass|
 
 ## CVE not assigned but acknowledged
 
