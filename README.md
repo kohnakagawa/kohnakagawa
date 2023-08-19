@@ -18,6 +18,7 @@
 |[CVE-2023-28600](https://explore.zoom.us/en/trust/security/security-bulletin/)|macOS|Zoom|Zoom for macOS clients|LPE|
 |[CVE-2023-32357](https://support.apple.com/en-us/HT213758)|macOS|Apple|macOS (Sandbox)|TCC bypass (App Protection)|
 |[CVE-2023-32546](https://jvn.jp/en/jp/JVN96828492/)|macOS|Chatwork|Chatwork Desktop Application|TCC bypass|
+|[CVE-2023-29166](https://support.apple.com/en-us/HT213882)|macOS|Apple|Pro Video Formats|SIP bypass|
 
 ## CVE not assigned (but acknowledged)
 
