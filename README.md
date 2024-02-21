@@ -21,6 +21,7 @@
 |[CVE-2023-32546](https://jvn.jp/en/jp/JVN96828492/)|macOS|Chatwork|Chatwork Desktop Application|TCC bypass|
 |[CVE-2023-41775](https://jvn.jp/en/jp/JVN42691027/)|macOS|L is B Corp.|"direct" Desktop App for macOS|TCC bypass|
 |[CVE-2023-41979](https://support.apple.com/en-us/HT213940)|macOS|Apple|macOS (XProtectFramework)|SIP bypass|
+|[CVE-2023-42860](https://support.apple.com/en-us/HT213985)|macOS|Apple|macOS (PackageKit)|SIP bypass|
 |[CVE-2023-42876](https://support.apple.com/en-us/HT213940)|macOS|Apple|macOS (BOM)|Out-of-bounds read|
 |[CVE-2023-42886](https://support.apple.com/en-us/HT214036)|macOS|Apple|macOS (CoreServices)|Buffer overread|
 
