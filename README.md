@@ -24,6 +24,7 @@
 |[CVE-2023-42860](https://support.apple.com/en-us/HT213985)|macOS|Apple|macOS (PackageKit)|SIP bypass|
 |[CVE-2023-42876](https://support.apple.com/en-us/HT213940)|macOS|Apple|macOS (BOM)|Out-of-bounds read|
 |[CVE-2023-42886](https://support.apple.com/en-us/HT214036)|macOS|Apple|macOS (CoreServices)|Buffer overread|
+|[CVE-2024-23201](https://support.apple.com/en-us/HT214059)|iOS|Apple|iOS (libxpc)|DoS|
 
 ## CVE not assigned (but acknowledged)
 
