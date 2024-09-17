@@ -25,6 +25,7 @@
 |[CVE-2023-42876](https://support.apple.com/en-us/HT213940)|macOS|Apple|macOS (BOM)|Out-of-bounds read|
 |[CVE-2023-42886](https://support.apple.com/en-us/HT214036)|macOS|Apple|macOS (CoreServices)|Buffer overread|
 |[CVE-2024-23201](https://support.apple.com/en-us/HT214085)|iOS/macOS|Apple|iOS/macOS (libxpc)|DoS|
+|[CVE-2024-40843](https://support.apple.com/en-us/121238)|macOS|Apple|macOS (XProtect)|TCC bypass|
 
 ## CVE not assigned (but acknowledged)
 
@@ -34,6 +35,7 @@
 |macOS|Apple|macOS (File Quarantine)|[Apple Security Updates](https://support.apple.com/en-us/HT213670)|Gatekeeper bypass|
 |macOS|Apple|macOS (quarantine)|[Apple Security Updates](https://support.apple.com/en-us/HT213670)|Gatekeeper bypass|
 |macOS|Apple|macOS (Rosetta)|[Apple Security Updates](https://support.apple.com/en-us/HT213758)|XProtect bypass|
+|macOS|Apple|macOS (Automator)|[Apple Security Updates](https://support.apple.com/en-us/121238)|??|
 
 ## Talks
 
