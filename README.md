@@ -26,6 +26,7 @@
 |[CVE-2023-42886](https://support.apple.com/en-us/HT214036)|macOS|Apple|macOS (CoreServices)|Buffer overread|
 |[CVE-2024-23201](https://support.apple.com/en-us/HT214085)|iOS/macOS|Apple|iOS/macOS (libxpc)|DoS|
 |[CVE-2024-40843](https://support.apple.com/en-us/121238)|macOS|Apple|macOS (XProtect)|TCC bypass|
+|[CVE-2025-24336](https://jvn.jp/en/jp/JVN23839833/index.html)|Windows|General Incorporated Association OCF|SXF Common Library|DoS|
 
 ## CVE not assigned (but acknowledged)
 
