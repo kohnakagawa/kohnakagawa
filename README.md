@@ -17,7 +17,7 @@
 |[CVE-2023-28596](https://explore.zoom.us/en/trust/security/security-bulletin/?filter-cve=CVE-2023-28596&filter=&keywords=)|macOS|Zoom|Zoom for macOS Installers|LPE|
 |[CVE-2023-28600](https://explore.zoom.us/en/trust/security/security-bulletin/?filter-cve=CVE-2023-28600&filter=&keywords=)|macOS|Zoom|Zoom for macOS clients|LPE|
 |[CVE-2023-29166](https://support.apple.com/en-us/HT213882)|macOS|Apple|Pro Video Formats|SIP bypass|
-|[CVE-2023-32357](https://support.apple.com/en-us/HT213758)|macOS|Apple|macOS (Sandbox)|TCC bypass (App Protection)|
+|[CVE-2023-32357](https://support.apple.com/en-us/HT213758)|macOS|Apple|macOS (Sandbox)|TCC bypass|
 |[CVE-2023-32546](https://jvn.jp/en/jp/JVN96828492/)|macOS|Chatwork|Chatwork Desktop Application|TCC bypass|
 |[CVE-2023-41775](https://jvn.jp/en/jp/JVN42691027/)|macOS|L is B Corp.|"direct" Desktop App for macOS|TCC bypass|
 |[CVE-2023-41979](https://support.apple.com/en-us/HT213940)|macOS|Apple|macOS (XProtectFramework)|SIP bypass|
