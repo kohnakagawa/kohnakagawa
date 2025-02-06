@@ -36,7 +36,7 @@
 |macOS|Apple|macOS (File Quarantine)|[Apple Security Updates](https://support.apple.com/en-us/HT213670)|Gatekeeper bypass|
 |macOS|Apple|macOS (quarantine)|[Apple Security Updates](https://support.apple.com/en-us/HT213670)|Gatekeeper bypass|
 |macOS|Apple|macOS (Rosetta)|[Apple Security Updates](https://support.apple.com/en-us/HT213758)|XProtect bypass|
-|macOS|Apple|macOS (Automator)|[Apple Security Updates](https://support.apple.com/en-us/121238)|??|
+|macOS|Apple|macOS (Automator)|[Apple Security Updates](https://support.apple.com/en-us/121238)|Provenance Sandbox bypass|
 
 ## Talks
 
