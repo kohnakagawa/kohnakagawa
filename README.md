@@ -38,6 +38,9 @@
 |macOS|Apple|macOS (Rosetta)|[Apple Security Updates](https://support.apple.com/en-us/HT213758)|XProtect bypass|
 |macOS|Apple|macOS (Automator)|[Apple Security Updates](https://support.apple.com/en-us/121238)|Provenance Sandbox bypass|
 |macOS|Apple|macOS (XProtect)|[Apple Security Updates](https://support.apple.com/en-us/120895)|DoS|
+|macOS|Apple|macOS (System Settings)|[Apple Security Updates](https://support.apple.com/en-us/121238)|?|
+|macOS|Apple|macOS (Terminal)|[Apple Security Updates](https://support.apple.com/en-us/121238)|Provenance Sandbox bypass|
+|macOS|Apple|macOS (XprotectFramework)|[Apple Security Updates](https://support.apple.com/en-us/121238)|Provenance Sandbox bypass|
 
 ## Talks
 
