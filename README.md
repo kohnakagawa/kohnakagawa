@@ -26,7 +26,10 @@
 |[CVE-2023-42886](https://support.apple.com/en-us/HT214036)|macOS|Apple|macOS (CoreServices)|Buffer overread|
 |[CVE-2024-23201](https://support.apple.com/en-us/HT214085)|iOS/macOS|Apple|iOS/macOS (libxpc)|DoS|
 |[CVE-2024-40843](https://support.apple.com/en-us/121238)|macOS|Apple|macOS (XProtect)|TCC bypass|
+|[CVE-2025-24204](https://support.apple.com/en-us/122373#:~:text=CVE%2D2025%2D24204:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (Kernel)|TCC bypass & keychain dump|
+|[CVE-2025-24242](https://support.apple.com/en-us/122373#:~:text=CVE%2D2025%2D24242:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (System Settings)|SIP&TCC bypass|
 |[CVE-2025-24336](https://jvn.jp/en/jp/JVN23839833/index.html)|Windows|General Incorporated Association OCF|SXF Common Library|DoS|
+
 
 ## CVE not assigned (but acknowledged)
 
@@ -41,6 +44,7 @@
 |macOS|Apple|macOS (System Settings)|[Apple Security Updates](https://support.apple.com/en-us/121238)|? (maybe related to Provenance Sandbox)|
 |macOS|Apple|macOS (Terminal)|[Apple Security Updates](https://support.apple.com/en-us/121238)|Provenance Sandbox bypass|
 |macOS|Apple|macOS (XprotectFramework)|[Apple Security Updates](https://support.apple.com/en-us/121238)|XProtect Behavior Service bypass|
+|macOS|Apple|macOS (Safari Downloads)|[Apple Security Updates](https://support.apple.com/en-us/122373#:~:text=acknowledge-,Koh%20M.%20Nakagawa%20(@tsunek0h),-of)|TCC bypass|
 
 ## Talks
 
