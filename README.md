@@ -27,7 +27,7 @@
 |[CVE-2024-23201](https://support.apple.com/en-us/HT214085)|iOS/macOS|Apple|iOS/macOS (libxpc)|DoS|
 |[CVE-2024-40843](https://support.apple.com/en-us/121238)|macOS|Apple|macOS (XProtect)|TCC bypass|
 |[CVE-2025-24204](https://support.apple.com/en-us/122373#:~:text=CVE%2D2025%2D24204:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (Kernel)|TCC bypass & keychain dump|
-|[CVE-2025-24242](https://support.apple.com/en-us/122373#:~:text=CVE%2D2025%2D24242:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (System Settings)|SIP&TCC bypass|
+|[CVE-2025-24242](https://support.apple.com/en-us/122373#:~:text=CVE%2D2025%2D24242:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (System Settings)|SIP & TCC bypass|
 |[CVE-2025-24336](https://jvn.jp/en/jp/JVN23839833/index.html)|Windows|General Incorporated Association OCF|SXF Common Library|DoS|
 
 
