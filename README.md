@@ -53,7 +53,7 @@
 |[Black Hat EU 2020](https://www.blackhat.com/eu-20/briefings/schedule/#jack-in-the-cache-a-new-code-injection-technique-through-modifying-x-to-arm-translation-cache-21324)|Jack-in-the-Cache: A New Code injection Technique through Modifying X86-to-ARM Translation Cache|
 |[CODE BLUE 2021](https://archive.codeblue.jp/2021/en/talks/?content=talks_4)|Appearances are deceiving: Novel offensive techniques in Windows 10/11 on ARM|
 |[Black Hat Asia 2023](https://www.blackhat.com/asia-23/briefings/schedule/index.html#dirty-bin-cache-a-new-code-injection-poisoning-binary-translation-cache-30907)|Dirty Bin Cache: A New Code Injection Poisoning Binary Translation Cache|
-|[CODE BLUE 2023](https://codeblue.jp/2023/en/talks/?content=talks_3)|Bypassing macOS Security and Privacy Mechanisms: From Gatekeeper to System Integrity Protection|
+|[CODE BLUE 2023](https://archive.codeblue.jp/2023/en/result/?content=Koh_Nakagawa)|Bypassing macOS Security and Privacy Mechanisms: From Gatekeeper to System Integrity Protection|
 |[Black Hat USA 2025](https://www.blackhat.com/us-25/briefings/schedule/index.html#xunprotect-reverse-engineering-macos-xprotect-remediator-44791)|XUnprotect: Reverse Engineering macOS XProtect Remediator|
 |[Nullcon Berlin 2025](https://nullcon.net/berlin-2025/speaker-speaker-why-is-process-isolation-indispensable)|Why Is Process Isolation Indispensable? Stealing All macOS Sensitive Info with a Single Vulnerability|
 |[OBTS v8.0](https://objectivebythesea.org/v8/talks.html#:~:text=XUnprotect:%20Reverse%20Engineering%20macOS%20XProtect%20Remediator)|XUnprotect: Reverse Engineering macOS XProtect Remediator|
