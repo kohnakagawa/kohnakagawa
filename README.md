@@ -31,6 +31,7 @@
 |[CVE-2025-24336](https://jvn.jp/en/jp/JVN23839833/index.html)|Windows|General Incorporated Association OCF|SXF Common Library|DoS|
 |[CVE-2025-43232](https://support.apple.com/en-us/124149#:~:text=CVE%2D2025%2D43232:%20Koh%20M.%20Nakagawa%20(@tsunek0h))|macOS|Apple|macOS (PackageKit)|SIP bypass|
 |[CVE-2026-20684](https://support.apple.com/en-us/126794#:~:text=CVE%2D2026%2D20684:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.) |macOS|Apple|macOS (AppleScript)|Gatekeeper bypass|
+|[CVE-2026-64711](https://support.apple.com/en-us/128067#:~:text=CVE%2D2026%2D64711:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (NSColorPanel)|TCC bypass|
 
 ## CVE not assigned (but acknowledged)
 
