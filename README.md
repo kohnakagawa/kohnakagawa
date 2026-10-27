@@ -33,6 +33,7 @@
 |[CVE-2026-20684](https://support.apple.com/en-us/126794#:~:text=CVE%2D2026%2D20684:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.) |macOS|Apple|macOS (AppleScript)|Gatekeeper bypass|
 |[CVE-2026-64711](https://support.apple.com/en-us/128067#:~:text=CVE%2D2026%2D64711:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (NSColorPanel)|TCC bypass|
 |[CVE-2026-86909](https://support.apple.com/en-us/149035#:~:text=CVE%2D2026%2D86909:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (System Settings)|Gatekeeper bypass|
+|[CVE-2026-112428](https://support.apple.com/en-us/149521#:~:text=CVE%2D2026%2D112428:%20Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.)|macOS|Apple|macOS (DesktopServices)|Gatekeeper bypass|
 
 ## CVE not assigned (but acknowledged)
 
@@ -48,6 +49,7 @@
 |macOS|Apple|macOS (Terminal)|[Apple Security Updates](https://support.apple.com/en-us/121238)|Provenance Sandbox bypass|
 |macOS|Apple|macOS (XprotectFramework)|[Apple Security Updates](https://support.apple.com/en-us/121238)|XProtect Behavior Service bypass|
 |macOS|Apple|macOS (Safari Downloads)|[Apple Security Updates](https://support.apple.com/en-us/122373#:~:text=acknowledge-,Koh%20M.%20Nakagawa%20(@tsunek0h),-of)|TCC bypass|
+|macOS|Apple|macOS (ImageIO)|[Apple Security Updates](https://support.apple.com/en-us/149521#:~:text=acknowledge-,Koh%20M.%20Nakagawa%20(@tsunek0h)%20of%20FFRI%20Security%2C%20Inc.,-%2C%20Mateusz)|Buffer overread|
 
 ## Talks
 
